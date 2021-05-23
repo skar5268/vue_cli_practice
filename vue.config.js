@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'vue_cli_practice/dist/'
+  publicPath: '/vue_cli_practice/dist/'
 }
