@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d242"],{f5da:function(n,e,t){"use strict";t.r(e);var o=t("7a23");function c(n,e,t,c,d,a){return Object(o["s"])(),Object(o["d"])("div")}var d=t("bc3a"),a=t.n(d),i={props:["id"],created:function(){console.log(this.id);var n=this.id;a.a.get("https://randomuser.me/api/?seed=".concat(n)).then((function(n){console.log(n)}))}};i.render=c;e["default"]=i}}]);
+//# sourceMappingURL=chunk-2d22d242.aa55c037.js.map
