@@ -23,6 +23,6 @@ app.component('ErrorMessage', ErrorMessage)
 
 app.mount('#app')
 
-new App({
-  render: h => h(App)
-}).$mount('#app')
+// new App({
+//   render: h => h(App)
+// }).$mount('#app')
